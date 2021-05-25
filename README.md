@@ -17,6 +17,9 @@ A repository for testing purpose.
 			<li>오늘계획</li>
 		</ul>
 	</div>
+	<div id="container>
+		 <img src="info.jpg">
+	</div>		    
 	<div id="footer">
 		https://github.com/elijahjang/Hello_world/edit/main/README.md
 	</div>
