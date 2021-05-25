@@ -1,2 +1,2 @@
 # Hello_world
-A repository for testing purpose.
+A repository for testing purposes.
